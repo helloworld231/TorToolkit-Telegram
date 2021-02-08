@@ -7,8 +7,8 @@ except:
         
         API_HASH = "7737ff47f538f9a00ad0ac5e3b72ca24"
         API_ID = 2275337
-        BOT_TOKEN = "1527979733:AAELriv1YdCS6DDeCQMp5Hi340UroKKlKmw"
-        BASE_URL_OF_BOT = "http://t.me/LeechV4_Bot"
+        BOT_TOKEN = "1654217631:AAH5JU9Rh82LElVLtpP-HL9SVoKS22qRGpU"
+        BASE_URL_OF_BOT = "http://t.me/LeechV5_Bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
