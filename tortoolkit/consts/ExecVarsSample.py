@@ -7,14 +7,14 @@ except:
         
         API_HASH = "7737ff47f538f9a00ad0ac5e3b72ca24"
         API_ID = 2275337
-        BOT_TOKEN = "1619904925:AAGPQ0E-1oAvwbAHnNYCu9vxgNKWaU2seHU"
-        BASE_URL_OF_BOT = "http://t.me/LeechV6_Bot"
+        BOT_TOKEN = "1570925721:AAFodeZJZ6bj2OCyV9Ug_vON_H0LHS89y7w"
+        BASE_URL_OF_BOT = "http://t.me/LeechV7_Bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1138549080,-515475096]
+        ALD_USR = [1138549080,-517067511]
         
         # Google Drive Index Link should include the base dir also See readme for more info
         GD_INDEX_URL = False
